@@ -1,4 +1,3 @@
 baseURL = "https://deadpointrecords.com/"
 languageCode = "en-us"
-title = "Deadpoint Records"
 theme = "vncnt-hugo"
