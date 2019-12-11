@@ -1,4 +1,15 @@
 baseURL = "https://deadpointrecords.com/"
 languageCode = "en-us"
-theme = "vncnt-hugo"
+theme = "landing-page"
 title = "Deadpoint Records"
+
+[params]
+  author = "Deadpoint Records"
+  email = "topi@kettunen.io"
+  description = ""
+  bio = ""
+  error404 = "There is no such page."
+
+  [params.contact]
+    bandcamp = "https://deadpointrecords.bandcamp.com/"
+    soundcloud = "https://soundcloud.com/deadpointrecords"

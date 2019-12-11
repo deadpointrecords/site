@@ -1,4 +1,3 @@
-[submodule "public"]
-	path = public
-	url = git@github.com:deadpointrecords/deadpointrecords.github.io.git
-	branch = master
+[submodule "themes/landing-page"]
+	path = themes/landing-page
+	url = git@github.com:deadpointrecords/landing-page.git
