@@ -1,7 +1,4 @@
-[submodule "themes/vncnt-hugo"]
-	path = themes/vncnt-hugo
-	url = https://github.com/topikettunen/vncnt-hugo.git
 [submodule "public"]
 	path = public
-	url = git@github.com:topikettunen/topikettunen.github.io.git
+	url = git@github.com:deadpointrecords/deadpointrecords.github.io.git
 	branch = master
