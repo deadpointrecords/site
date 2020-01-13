@@ -11,5 +11,5 @@ title = "Deadpoint Records"
   error404 = "There is no such page."
 
   [params.contact]
-    bandcamp = "https://deadpointrecords.bandcamp.com/"
-    soundcloud = "https://soundcloud.com/deadpointrecords"
+    # bandcamp = "https://deadpointrecords.bandcamp.com/"
+    # soundcloud = "https://soundcloud.com/deadpointrecords"
