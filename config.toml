@@ -5,11 +5,13 @@ title = "Deadpoint Records"
 
 [params]
   author = "Deadpoint Records"
-  email = "topi@kettunen.io"
+  email = "mail@deadpointrecords.com"
   description = ""
   bio = ""
   error404 = "There is no such page."
 
   [params.contact]
-    # bandcamp = "https://deadpointrecords.bandcamp.com/"
-    # soundcloud = "https://soundcloud.com/deadpointrecords"
+    bandcamp = "https://deadpointrecords.bandcamp.com/"
+    soundcloud = "https://soundcloud.com/deadpointrecords"
+    instagram = "https://www.instagram.com/topikettunen"
+    youtube = "https://www.youtube.com/channel/UCTxINaZpQo8wgkc07I5wrVw"
